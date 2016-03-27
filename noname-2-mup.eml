@@ -1,0 +1,1025 @@
+Received: from mail-vk0-f47.google.com (mail-vk0-f47.google.com [209.85.213.47])
+	by atl4mhib19.myregisteredsite.com (8.14.4/8.14.4) with ESMTP id u1P328jN014961
+	(version=TLSv1/SSLv3 cipher=AES128-GCM-SHA256 bits=128 verify=OK)
+	for <gene@dvi-engineering.com>; Wed, 24 Feb 2016 22:02:08 -0500
+Received: from unknown (HELO atl4mhib19.myregisteredsite.com) (209.17.115.154)
+  by 0 with SMTP; 25 Feb 2016 03:02:10 -0000
+Received: by 10.31.31.11 with HTTP; Wed, 24 Feb 2016 19:02:08 -0800 (PST)
+Received: by mail-vk0-f47.google.com with SMTP id k196so36335366vka.0
+        for <gene@dvi-engineering.com>; Wed, 24 Feb 2016 19:02:08 -0800 (PST)
+Received: (qmail 8074 invoked by uid 0); 25 Feb 2016 03:02:10 -0000
+From: "Guangyu Wang" <wanggy1992@gmail.com>
+To: "Ruze Richards" <ruze00@gmail.com>
+Cc: "Roman Kubiak" <rokubiak@gmail.com>,
+	<gene@dvi-engineering.com>,
+	"Mark Phillips" <mbp@geomtech.com>,
+	<uri1@optonline.net>
+References: <CAGycQFbjSw0cRtQAuCFu5ve0x6ZymkZfvMtGJcOu3q7wqZf_dg@mail.gmail.com>	<CANmBs=9UCufU_yxqppRgna4H4P=6VRndfdvvRxYA=QgH8j68NA@mail.gmail.com>	<CAGycQFZ=LkaRnRVe0pvvZ_bNk2XyiUFaFCmr3Dq1ppHLonSCjg@mail.gmail.com>	<CAGycQFYRs_Ro8+VsWsKr=pikZyhCiNjJE9NCYG8WDac3eyLpmw@mail.gmail.com>	<CAGycQFYnnKPXgC9wHyzBp3qL87ubE5eDTdE7HWXOr8UiJkvWFQ@mail.gmail.com>
+In-Reply-To: <CAGycQFYnnKPXgC9wHyzBp3qL87ubE5eDTdE7HWXOr8UiJkvWFQ@mail.gmail.com>
+Subject: Re: iPython workbooks
+Date: Wed, 24 Feb 2016 23:02:08 -0400
+Message-ID: <CAD61X8XuZECst9smArwOMjYuXnmRbk8BRGZbsjtqpLOjRCKArA@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0280_01D17EAF.5A456950"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQFFiIj2HcB+po2LLfbSUhez8ym6RgDwxxzBAvzQMhkBdWovVQMnlyCqAUPC8c0=
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0280_01D17EAF.5A456950
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0281_01D17EAF.5A456950"
+
+
+------=_NextPart_001_0281_01D17EAF.5A456950
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi All,
+
+Here is my solution for assignment 3, in which all problems were done =
+and the low training accuracy problem was fixed.
+
+Bests,
+Bruce
+
+On Wed, Feb 24, 2016 at 2:45 PM, Ruze Richards <ruze00@gmail.com =
+<mailto:ruze00@gmail.com> > wrote:
+
+
+I just went through some skflow (scikit + tensorflow) examples - WOW =
+does this make life easier!!
+
+
+On Wed, Feb 24, 2016 at 2:35 PM, Ruze Richards <ruze00@gmail.com =
+<mailto:ruze00@gmail.com> > wrote:
+
+
+Btw, uri2@optonline.net <mailto:uri2@optonline.net>  should be =
+uri1@optonline.net <mailto:uri1@optonline.net>=20
+
+
+
+On Wed, Feb 24, 2016 at 2:34 PM, Ruze Richards <ruze00@gmail.com =
+<mailto:ruze00@gmail.com> > wrote:
+
+
+Sure, maybe we can do a workshop on that.
+
+
+
+On Wed, Feb 24, 2016 at 2:23 PM, Roman Kubiak <rokubiak@gmail.com =
+<mailto:rokubiak@gmail.com> > wrote:
+
+
+Thanks! Spark mllib webinar was great. If tensorflow can be used on top =
+of spark, I could use it on my company's data.=20
+
+On Wed, Feb 24, 2016 at 1:39 PM Ruze Richards <ruze00@gmail.com =
+<mailto:ruze00@gmail.com> > wrote:
+
+
+Here are the 3 workbooks we've completed (more or less).  We didn't =
+actually complete the final problem in the 3rd one but we ran out of =
+steam on that one.
+
+
+
+
+
+
+
+
+
+--=20
+
+Graduate School of Arts and Sciences
+=20
+Columbia University
+
+
+(718) 669 - 0260
+
+------=_NextPart_001_0281_01D17EAF.5A456950
+Content-Type: text/html;
+	boundary="001a114304d67b3799052c8f68c3";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi All,<div><br></div><div>Here is my solution for =
+assignment 3, in which all problems were done and the low training =
+accuracy problem was =
+fixed.</div><div><br></div><div>Bests,</div><div>Bruce</div></div><div =
+class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Wed, Feb 24, =
+2016 at 2:45 PM, Ruze Richards <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:ruze00@gmail.com" =
+target=3D"_blank">ruze00@gmail.com</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div dir=3D"ltr">I just went through some skflow =
+(scikit + tensorflow) examples - WOW does this make life =
+easier!!<div><br></div></div><div class=3D"HOEnZb"><div =
+class=3D"h5"><div class=3D"gmail_extra"><br><div =
+class=3D"gmail_quote">On Wed, Feb 24, 2016 at 2:35 PM, Ruze Richards =
+<span dir=3D"ltr">&lt;<a href=3D"mailto:ruze00@gmail.com" =
+target=3D"_blank">ruze00@gmail.com</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div dir=3D"ltr">Btw, <a =
+href=3D"mailto:uri2@optonline.net" =
+target=3D"_blank">uri2@optonline.net</a> should be <a =
+href=3D"mailto:uri1@optonline.net" =
+target=3D"_blank">uri1@optonline.net</a><div><br></div><div><br></div></d=
+iv><div><div><div class=3D"gmail_extra"><br><div =
+class=3D"gmail_quote">On Wed, Feb 24, 2016 at 2:34 PM, Ruze Richards =
+<span dir=3D"ltr">&lt;<a href=3D"mailto:ruze00@gmail.com" =
+target=3D"_blank">ruze00@gmail.com</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div dir=3D"ltr">Sure, maybe we can do a =
+workshop on that.<div><br></div><div><br></div></div><div><div><div =
+class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Wed, Feb 24, =
+2016 at 2:23 PM, Roman Kubiak <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:rokubiak@gmail.com" =
+target=3D"_blank">rokubiak@gmail.com</a>&gt;</span> =
+wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 =
+.8ex;border-left:1px #ccc solid;padding-left:1ex">Thanks! Spark mllib =
+webinar was great. If tensorflow can be used on top of spark, I could =
+use it on my company&#39;s data. <br><div><div><div =
+class=3D"gmail_quote"><div dir=3D"ltr">On Wed, Feb 24, 2016 at 1:39 PM =
+Ruze Richards &lt;<a href=3D"mailto:ruze00@gmail.com" =
+target=3D"_blank">ruze00@gmail.com</a>&gt; wrote:<br></div><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex"><div dir=3D"ltr"><div class=3D"gmail_extra">Here =
+are the 3 workbooks we&#39;ve completed (more or less).=C2=A0 We =
+didn&#39;t actually complete the final problem in the 3rd one but we ran =
+out of steam on that one.</div><div class=3D"gmail_extra"><br></div><div =
+class=3D"gmail_extra"><br></div></div>
+</blockquote></div>
+</div></div></blockquote></div><br></div>
+</div></div></blockquote></div><br></div>
+</div></div></blockquote></div><br></div>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- =
+<br><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div =
+dir=3D"ltr"><div><font face=3D"arial, helvetica, sans-serif">Graduate =
+School of Arts and Sciences<br>=C2=A0<br>Columbia =
+University</font><br><br></div><div>(718) 669 - =
+0260</div></div></div></div></div>
+</div>
+
+------=_NextPart_001_0281_01D17EAF.5A456950--
+
+------=_NextPart_000_0280_01D17EAF.5A456950
+Content-Type: application/octet-stream;
+	name="3_regularization.ipynb"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="3_regularization.ipynb"
+
+{=0A=
+ "cells": [=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "kR-4eNdK6lYS"=0A=
+   },=0A=
+   "source": [=0A=
+    "Deep Learning\n",=0A=
+    "=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D\n",=0A=
+    "\n",=0A=
+    "Assignment 3\n",=0A=
+    "------------\n",=0A=
+    "\n",=0A=
+    "Previously in `2_fullyconnected.ipynb`, you trained a logistic =
+regression and a neural network model.\n",=0A=
+    "\n",=0A=
+    "The goal of this assignment is to explore regularization =
+techniques."=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 1,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     }=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": true,=0A=
+    "id": "JLpLa8Jt7Vu4"=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "# These are all the modules we'll be using later. Make sure you can =
+import them\n",=0A=
+    "# before proceeding further.\n",=0A=
+    "from __future__ import print_function\n",=0A=
+    "import numpy as np\n",=0A=
+    "import tensorflow as tf\n",=0A=
+    "from six.moves import cPickle as pickle"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "1HrCK6e17WzV"=0A=
+   },=0A=
+   "source": [=0A=
+    "First reload the data we generated in _notmist.ipynb_."=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 2,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     },=0A=
+     "output_extras": [=0A=
+      {=0A=
+       "item_id": 1=0A=
+      }=0A=
+     ]=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": false,=0A=
+    "executionInfo": {=0A=
+     "elapsed": 11777,=0A=
+     "status": "ok",=0A=
+     "timestamp": 1449849322348,=0A=
+     "user": {=0A=
+      "color": "",=0A=
+      "displayName": "",=0A=
+      "isAnonymous": false,=0A=
+      "isMe": true,=0A=
+      "permissionId": "",=0A=
+      "photoUrl": "",=0A=
+      "sessionId": "0",=0A=
+      "userId": ""=0A=
+     },=0A=
+     "user_tz": 480=0A=
+    },=0A=
+    "id": "y3-cj1bpmuxc",=0A=
+    "outputId": "e03576f1-ebbe-4838-c388-f1777bcc9873"=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Training set (200000, 28, 28) (200000,)\n",=0A=
+      "Validation set (10000, 28, 28) (10000,)\n",=0A=
+      "Test set (10000, 28, 28) (10000,)\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "pickle_file =3D 'notMNIST.pickle'\n",=0A=
+    "\n",=0A=
+    "with open(pickle_file, 'rb') as f:\n",=0A=
+    "  save =3D pickle.load(f)\n",=0A=
+    "  train_dataset =3D save['train_dataset']\n",=0A=
+    "  train_labels =3D save['train_labels']\n",=0A=
+    "  valid_dataset =3D save['valid_dataset']\n",=0A=
+    "  valid_labels =3D save['valid_labels']\n",=0A=
+    "  test_dataset =3D save['test_dataset']\n",=0A=
+    "  test_labels =3D save['test_labels']\n",=0A=
+    "  del save  # hint to help gc free up memory\n",=0A=
+    "  print('Training set', train_dataset.shape, train_labels.shape)\n",=0A=
+    "  print('Validation set', valid_dataset.shape, =
+valid_labels.shape)\n",=0A=
+    "  print('Test set', test_dataset.shape, test_labels.shape)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "L7aHrm6nGDMB"=0A=
+   },=0A=
+   "source": [=0A=
+    "Reformat into a shape that's more adapted to the models we're going =
+to train:\n",=0A=
+    "- data as a flat matrix,\n",=0A=
+    "- labels as float 1-hot encodings."=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 3,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     },=0A=
+     "output_extras": [=0A=
+      {=0A=
+       "item_id": 1=0A=
+      }=0A=
+     ]=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": false,=0A=
+    "executionInfo": {=0A=
+     "elapsed": 11728,=0A=
+     "status": "ok",=0A=
+     "timestamp": 1449849322356,=0A=
+     "user": {=0A=
+      "color": "",=0A=
+      "displayName": "",=0A=
+      "isAnonymous": false,=0A=
+      "isMe": true,=0A=
+      "permissionId": "",=0A=
+      "photoUrl": "",=0A=
+      "sessionId": "0",=0A=
+      "userId": ""=0A=
+     },=0A=
+     "user_tz": 480=0A=
+    },=0A=
+    "id": "IRSyYiIIGIzS",=0A=
+    "outputId": "3f8996ee-3574-4f44-c953-5c8a04636582"=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Training set (200000, 784) (200000, 10)\n",=0A=
+      "Validation set (10000, 784) (10000, 10)\n",=0A=
+      "Test set (10000, 784) (10000, 10)\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "image_size =3D 28\n",=0A=
+    "num_labels =3D 10\n",=0A=
+    "\n",=0A=
+    "def reformat(dataset, labels):\n",=0A=
+    "  dataset =3D dataset.reshape((-1, image_size * =
+image_size)).astype(np.float32)\n",=0A=
+    "  # Map 2 to [0.0, 1.0, 0.0 ...], 3 to [0.0, 0.0, 1.0 ...]\n",=0A=
+    "  labels =3D (np.arange(num_labels) =3D=3D =
+labels[:,None]).astype(np.float32)\n",=0A=
+    "  return dataset, labels\n",=0A=
+    "train_dataset, train_labels =3D reformat(train_dataset, =
+train_labels)\n",=0A=
+    "valid_dataset, valid_labels =3D reformat(valid_dataset, =
+valid_labels)\n",=0A=
+    "test_dataset, test_labels =3D reformat(test_dataset, =
+test_labels)\n",=0A=
+    "print('Training set', train_dataset.shape, train_labels.shape)\n",=0A=
+    "print('Validation set', valid_dataset.shape, valid_labels.shape)\n",=0A=
+    "print('Test set', test_dataset.shape, test_labels.shape)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 4,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     }=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": true,=0A=
+    "id": "RajPLaL_ZW6w"=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "def accuracy(predictions, labels):\n",=0A=
+    "  return (100.0 * np.sum(np.argmax(predictions, 1) =3D=3D =
+np.argmax(labels, 1))\n",=0A=
+    "          / predictions.shape[0])"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "sgLbUAQ1CW-1"=0A=
+   },=0A=
+   "source": [=0A=
+    "---\n",=0A=
+    "Problem 1\n",=0A=
+    "---------\n",=0A=
+    "\n",=0A=
+    "Introduce and tune L2 regularization for both logistic and neural =
+network models. Remember that L2 amounts to adding a penalty on the norm =
+of the weights to the loss. In TensorFlow, you can compute the L2 loss =
+for a tensor `t` using `nn.l2_loss(t)`. The right amount of =
+regularization should improve your validation / test accuracy.\n",=0A=
+    "\n",=0A=
+    "---"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 5,=0A=
+   "metadata": {=0A=
+    "collapsed": true=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "def weight_variable(shape):\n",=0A=
+    "  initial =3D tf.truncated_normal(shape, stddev=3D0.1)\n",=0A=
+    "  return tf.Variable(initial)\n",=0A=
+    "\n",=0A=
+    "def bias_variable(shape):\n",=0A=
+    "  initial =3D tf.constant(0.1, shape=3Dshape)\n",=0A=
+    "  return tf.Variable(initial)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 6,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "batch_size =3D 128\n",=0A=
+    "nodes =3D 1024\n",=0A=
+    "reg_coeff =3D 6*1e-5\n",=0A=
+    "\n",=0A=
+    "graph =3D tf.Graph()\n",=0A=
+    "with graph.as_default():\n",=0A=
+    "\n",=0A=
+    "  # Input data. For the training data, we use a placeholder that =
+will be fed\n",=0A=
+    "  # at run time with a training minibatch.\n",=0A=
+    "  tf_train_dataset =3D tf.placeholder(tf.float32,\n",=0A=
+    "                                    shape=3D(batch_size, image_size =
+* image_size))\n",=0A=
+    "  tf_train_labels =3D tf.placeholder(tf.float32, =
+shape=3D(batch_size, num_labels))\n",=0A=
+    "  tf_valid_dataset =3D tf.constant(valid_dataset)\n",=0A=
+    "  tf_test_dataset =3D tf.constant(test_dataset)\n",=0A=
+    "  \n",=0A=
+    "  # Variables.\n",=0A=
+    "  w1 =3D weight_variable([image_size * image_size, nodes])\n",=0A=
+    "  b1 =3D bias_variable([nodes])\n",=0A=
+    "  w2 =3D weight_variable([nodes, num_labels])\n",=0A=
+    "  b2 =3D bias_variable([num_labels])\n",=0A=
+    "    \n",=0A=
+    "  # Hidden Layer\n",=0A=
+    "  h1 =3D tf.nn.relu(tf.matmul(tf_train_dataset, w1) + b1)\n",=0A=
+    "\n",=0A=
+    "  # L2 regularization for the fully connected parameters.\n",=0A=
+    "  regularizers =3D (tf.nn.l2_loss(w2) +\n",=0A=
+    "              tf.nn.l2_loss(w1))\n",=0A=
+    "  \n",=0A=
+    "  # Training computation.\n",=0A=
+    "  logits =3D tf.matmul(h1, w2) + b2\n",=0A=
+    "  loss =3D tf.reduce_mean(\n",=0A=
+    "    tf.nn.softmax_cross_entropy_with_logits(logits, =
+tf_train_labels))\n",=0A=
+    "    \n",=0A=
+    "  # Add the regularization term to the loss.\n",=0A=
+    "  loss +=3D reg_coeff * regularizers\n",=0A=
+    "    \n",=0A=
+    "  # Optimizer.\n",=0A=
+    "  optimizer =3D =
+tf.train.GradientDescentOptimizer(0.5).minimize(loss)\n",=0A=
+    "  \n",=0A=
+    "  # Predictions for the training, validation, and test data.\n",=0A=
+    "  train_prediction =3D tf.nn.softmax(logits)\n",=0A=
+    "  valid_prediction =3D tf.nn.softmax(\n",=0A=
+    "    tf.matmul(tf.nn.relu(tf.matmul(tf_valid_dataset, w1) + b1), w2) =
++ b2)\n",=0A=
+    "  test_prediction =3D tf.nn.softmax(\n",=0A=
+    "    tf.matmul(tf.nn.relu(tf.matmul(tf_test_dataset, w1) + b1), w2) =
++ b2)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 7,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 4.663588\n",=0A=
+      "Minibatch accuracy: 5.5%\n",=0A=
+      "Validation accuracy: 36.2%\n",=0A=
+      "Minibatch loss at step 500: 0.591637\n",=0A=
+      "Minibatch accuracy: 89.1%\n",=0A=
+      "Validation accuracy: 85.1%\n",=0A=
+      "Minibatch loss at step 1000: 0.762194\n",=0A=
+      "Minibatch accuracy: 82.0%\n",=0A=
+      "Validation accuracy: 86.2%\n",=0A=
+      "Minibatch loss at step 1500: 0.448162\n",=0A=
+      "Minibatch accuracy: 93.0%\n",=0A=
+      "Validation accuracy: 86.0%\n",=0A=
+      "Minibatch loss at step 2000: 0.449848\n",=0A=
+      "Minibatch accuracy: 93.8%\n",=0A=
+      "Validation accuracy: 87.6%\n",=0A=
+      "Minibatch loss at step 2500: 0.518425\n",=0A=
+      "Minibatch accuracy: 90.6%\n",=0A=
+      "Validation accuracy: 87.8%\n",=0A=
+      "Minibatch loss at step 3000: 0.550283\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 88.2%\n",=0A=
+      "Test accuracy: 94.0%\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "num_steps =3D 3001\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print(\"Initialized\")\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    # Pick an offset within the training data, which has been =
+randomized.\n",=0A=
+    "    # Note: we could use better randomization across epochs.\n",=0A=
+    "    offset =3D (step * batch_size) % (train_labels.shape[0] - =
+batch_size)\n",=0A=
+    "    # Generate a minibatch.\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size),:]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + =
+batch_size),:]\n",=0A=
+    "    # Prepare a dictionary telling the session where to feed the =
+minibatch.\n",=0A=
+    "    # The key of the dictionary is the placeholder node of the =
+graph to be fed,\n",=0A=
+    "    # and the value is the numpy array to feed to it.\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels}\n",=0A=
+    "    _, l, predictions =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 500 =3D=3D 0):\n",=0A=
+    "      print(\"Minibatch loss at step %d: %f\" % (step, l))\n",=0A=
+    "      print(\"Minibatch accuracy: %.1f%%\" % accuracy(predictions, =
+batch_labels))\n",=0A=
+    "      print(\"Validation accuracy: %.1f%%\" % accuracy(\n",=0A=
+    "        valid_prediction.eval(), valid_labels))\n",=0A=
+    "  print(\"Test accuracy: %.1f%%\" % =
+accuracy(test_prediction.eval(), test_labels))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "na8xX2yHZzNF"=0A=
+   },=0A=
+   "source": [=0A=
+    "---\n",=0A=
+    "Problem 2\n",=0A=
+    "---------\n",=0A=
+    "Let's demonstrate an extreme case of overfitting. Restrict your =
+training data to just a few batches. What happens?\n",=0A=
+    "\n",=0A=
+    "---"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 8,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 4.450202\n",=0A=
+      "Minibatch accuracy: 9.4%\n",=0A=
+      "Validation accuracy: 31.9%\n",=0A=
+      "Minibatch loss at step 500: 0.464692\n",=0A=
+      "Minibatch accuracy: 93.0%\n",=0A=
+      "Validation accuracy: 83.2%\n",=0A=
+      "Minibatch loss at step 1000: 0.278383\n",=0A=
+      "Minibatch accuracy: 97.7%\n",=0A=
+      "Validation accuracy: 84.1%\n",=0A=
+      "Minibatch loss at step 1500: 0.223143\n",=0A=
+      "Minibatch accuracy: 99.2%\n",=0A=
+      "Validation accuracy: 84.7%\n",=0A=
+      "Minibatch loss at step 2000: 0.202019\n",=0A=
+      "Minibatch accuracy: 100.0%\n",=0A=
+      "Validation accuracy: 84.7%\n",=0A=
+      "Minibatch loss at step 2500: 0.192235\n",=0A=
+      "Minibatch accuracy: 100.0%\n",=0A=
+      "Validation accuracy: 84.7%\n",=0A=
+      "Minibatch loss at step 3000: 0.186365\n",=0A=
+      "Minibatch accuracy: 99.2%\n",=0A=
+      "Validation accuracy: 84.8%\n",=0A=
+      "Test accuracy: 91.5%\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "batch_size =3D 128\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print(\"Initialized\")\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    # Pick an offset within the training data, which has been =
+randomized.\n",=0A=
+    "    # Restrict offset to only three values\n",=0A=
+    "    offset =3D (step%100)*batch_size\n",=0A=
+    "    # Generate a minibatch.\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size),:]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + =
+batch_size),:]\n",=0A=
+    "    # Prepare a dictionary telling the session where to feed the =
+minibatch.\n",=0A=
+    "    # The key of the dictionary is the placeholder node of the =
+graph to be fed,\n",=0A=
+    "    # and the value is the numpy array to feed to it.\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels}\n",=0A=
+    "    _, l, predictions =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 500 =3D=3D 0):\n",=0A=
+    "      print(\"Minibatch loss at step %d: %f\" % (step, l))\n",=0A=
+    "      print(\"Minibatch accuracy: %.1f%%\" % accuracy(predictions, =
+batch_labels))\n",=0A=
+    "      print(\"Validation accuracy: %.1f%%\" % accuracy(\n",=0A=
+    "        valid_prediction.eval(), valid_labels))\n",=0A=
+    "  print(\"Test accuracy: %.1f%%\" % =
+accuracy(test_prediction.eval(), test_labels))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "ww3SCBUdlkRc"=0A=
+   },=0A=
+   "source": [=0A=
+    "---\n",=0A=
+    "Problem 3\n",=0A=
+    "---------\n",=0A=
+    "Introduce Dropout on the hidden layer of the neural network. =
+Remember: Dropout should only be introduced during training, not =
+evaluation, otherwise your evaluation results would be stochastic as =
+well. TensorFlow provides `nn.dropout()` for that, but you have to make =
+sure it's only inserted during training.\n",=0A=
+    "\n",=0A=
+    "What happens to our extreme overfitting case?\n",=0A=
+    "\n",=0A=
+    "---"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 9,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "batch_size =3D 128\n",=0A=
+    "nodes =3D 1024\n",=0A=
+    "reg_coeff =3D 6*1e-5\n",=0A=
+    "\n",=0A=
+    "graph =3D tf.Graph()\n",=0A=
+    "with graph.as_default():\n",=0A=
+    "\n",=0A=
+    "  # Input data. For the training data, we use a placeholder that =
+will be fed\n",=0A=
+    "  # at run time with a training minibatch.\n",=0A=
+    "  tf_train_dataset =3D tf.placeholder(tf.float32,\n",=0A=
+    "                                    shape=3D(None, image_size * =
+image_size))\n",=0A=
+    "  tf_train_labels =3D tf.placeholder(tf.float32, shape=3D(None, =
+num_labels))\n",=0A=
+    "  tf_valid_dataset =3D tf.constant(valid_dataset)\n",=0A=
+    "  tf_test_dataset =3D tf.constant(test_dataset)\n",=0A=
+    "  \n",=0A=
+    "  # Variables.\n",=0A=
+    "  w1 =3D weight_variable([image_size * image_size, nodes])\n",=0A=
+    "  b1 =3D bias_variable([nodes])\n",=0A=
+    "  w2 =3D weight_variable([nodes, num_labels])\n",=0A=
+    "  b2 =3D bias_variable([num_labels])\n",=0A=
+    "  \n",=0A=
+    "  # Hidden Layer\n",=0A=
+    "  h1 =3D tf.nn.relu(tf.matmul(tf_train_dataset, w1) + b1)\n",=0A=
+    "\n",=0A=
+    "  # Dropout\n",=0A=
+    "  #keep_prob =3D tf.placeholder(tf.float32)\n",=0A=
+    "  h_drop =3D tf.nn.dropout(h1, 0.5)\n",=0A=
+    "  \n",=0A=
+    "  # Training computation.\n",=0A=
+    "  logits =3D tf.matmul(h_drop, w2) + b2\n",=0A=
+    "  loss =3D tf.reduce_mean(\n",=0A=
+    "    tf.nn.softmax_cross_entropy_with_logits(logits, =
+tf_train_labels))\n",=0A=
+    "    \n",=0A=
+    "  # Optimizer.\n",=0A=
+    "  optimizer =3D =
+tf.train.GradientDescentOptimizer(0.5).minimize(loss)\n",=0A=
+    "  \n",=0A=
+    "  # Predictions for the training, validation, and test data.\n",=0A=
+    "  train_prediction =3D tf.nn.softmax(logits)\n",=0A=
+    "  valid_prediction =3D tf.nn.softmax(\n",=0A=
+    "    tf.matmul(tf.nn.relu(tf.matmul(tf_valid_dataset, w1) + b1), w2) =
++ b2)\n",=0A=
+    "  test_prediction =3D tf.nn.softmax(\n",=0A=
+    "    tf.matmul(tf.nn.relu(tf.matmul(tf_test_dataset, w1) + b1), w2) =
++ b2)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 10,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 5.696831\n",=0A=
+      "Minibatch accuracy: 3.9%\n",=0A=
+      "Validation accuracy: 35.6%\n",=0A=
+      "Minibatch loss at step 500: 0.605023\n",=0A=
+      "Minibatch accuracy: 82.0%\n",=0A=
+      "Validation accuracy: 84.0%\n",=0A=
+      "Minibatch loss at step 1000: 0.387361\n",=0A=
+      "Minibatch accuracy: 85.9%\n",=0A=
+      "Validation accuracy: 84.6%\n",=0A=
+      "Minibatch loss at step 1500: 0.437044\n",=0A=
+      "Minibatch accuracy: 86.7%\n",=0A=
+      "Validation accuracy: 84.8%\n",=0A=
+      "Minibatch loss at step 2000: 0.307170\n",=0A=
+      "Minibatch accuracy: 90.6%\n",=0A=
+      "Validation accuracy: 84.9%\n",=0A=
+      "Minibatch loss at step 2500: 0.216534\n",=0A=
+      "Minibatch accuracy: 94.5%\n",=0A=
+      "Validation accuracy: 85.2%\n",=0A=
+      "Minibatch loss at step 3000: 0.114713\n",=0A=
+      "Minibatch accuracy: 96.9%\n",=0A=
+      "Validation accuracy: 84.6%\n",=0A=
+      "Test accuracy: 91.3%\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "batch_size =3D 128\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print(\"Initialized\")\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    # Pick an offset within the training data, which has been =
+randomized.\n",=0A=
+    "    # Restrict offset to only three values\n",=0A=
+    "    offset =3D (step%100)*batch_size\n",=0A=
+    "    # Generate a minibatch.\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size),:]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + =
+batch_size),:]\n",=0A=
+    "    # Prepare a dictionary telling the session where to feed the =
+minibatch.\n",=0A=
+    "    # The key of the dictionary is the placeholder node of the =
+graph to be fed,\n",=0A=
+    "    # and the value is the numpy array to feed to it.\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels}\n",=0A=
+    "    _, l, predictions =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 500 =3D=3D 0):\n",=0A=
+    "      print(\"Minibatch loss at step %d: %f\" % (step, l))\n",=0A=
+    "      print(\"Minibatch accuracy: %.1f%%\" % accuracy(predictions, =
+batch_labels))\n",=0A=
+    "      print(\"Validation accuracy: %.1f%%\" % accuracy(\n",=0A=
+    "        valid_prediction.eval(), valid_labels))\n",=0A=
+    "  print(\"Test accuracy: %.1f%%\" % =
+accuracy(test_prediction.eval(), test_labels))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "-b1hTz3VWZjw"=0A=
+   },=0A=
+   "source": [=0A=
+    "---\n",=0A=
+    "Problem 4\n",=0A=
+    "---------\n",=0A=
+    "\n",=0A=
+    "Try to get the best performance you can using a multi-layer model! =
+The best reported test accuracy using a deep network is =
+[97.1%](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html?show=
+Comment=3D1391023266211#c8758720086795711595).\n",=0A=
+    "\n",=0A=
+    "One avenue you can explore is to add multiple layers.\n",=0A=
+    "\n",=0A=
+    "Another one is to use learning rate decay:\n",=0A=
+    "\n",=0A=
+    "    global_step =3D tf.Variable(0)  # count the number of steps =
+taken.\n",=0A=
+    "    learning_rate =3D tf.train.exponential_decay(0.5, step, ...)\n",=0A=
+    "    optimizer =3D =
+tf.train.GradientDescentOptimizer(learning_rate).minimize(loss, =
+global_step=3Dglobal_step)\n",=0A=
+    " \n",=0A=
+    " ---\n"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 11,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "batch_size =3D 128\n",=0A=
+    "nodes1 =3D 1024\n",=0A=
+    "nodes2 =3D 1024\n",=0A=
+    "reg_coeff =3D 8*1e-5\n",=0A=
+    "\n",=0A=
+    "graph =3D tf.Graph()\n",=0A=
+    "with graph.as_default():\n",=0A=
+    "  # Input data. For the training data, we use a placeholder that =
+will be fed\n",=0A=
+    "  # at run time with a training minibatch.\n",=0A=
+    "  tf_train_dataset =3D tf.placeholder(tf.float32,\n",=0A=
+    "                                    shape=3D(None, image_size * =
+image_size))\n",=0A=
+    "  tf_train_labels =3D tf.placeholder(tf.float32, shape=3D(None, =
+num_labels))\n",=0A=
+    "  \n",=0A=
+    "  # Variables.\n",=0A=
+    "  w1 =3D weight_variable([image_size * image_size, nodes1])\n",=0A=
+    "  b1 =3D bias_variable([nodes1])\n",=0A=
+    "  w2 =3D weight_variable([nodes1, nodes2])\n",=0A=
+    "  b2 =3D bias_variable([nodes2])\n",=0A=
+    "  w3 =3D weight_variable([nodes2, num_labels])\n",=0A=
+    "  b3 =3D bias_variable([num_labels])\n",=0A=
+    "  prob =3D tf.placeholder(tf.float32)\n",=0A=
+    "    \n",=0A=
+    "  # Hidden Layer1\n",=0A=
+    "  h1 =3D tf.nn.relu(tf.matmul(tf_train_dataset, w1) + b1)\n",=0A=
+    "  # Dropout1\n",=0A=
+    "  h_d1 =3D tf.nn.dropout(h1, prob)\n",=0A=
+    "\n",=0A=
+    "  # Hidden Layer2\n",=0A=
+    "  h2 =3D tf.nn.relu(tf.matmul(h_d1, w2) + b2)\n",=0A=
+    "  # Dropout2\n",=0A=
+    "  h_d2 =3D tf.nn.dropout(h2, prob)   \n",=0A=
+    "    \n",=0A=
+    "  # L2 regularization for the fully connected parameters.\n",=0A=
+    "  regularizers =3D (tf.nn.l2_loss(w2) + tf.nn.l2_loss(w1) +\n",=0A=
+    "    tf.nn.l2_loss(w3))\n",=0A=
+    "  \n",=0A=
+    "  # Training computation.\n",=0A=
+    "  logits =3D tf.matmul(h_d2, w3) + b3\n",=0A=
+    "  loss =3D tf.reduce_mean(\n",=0A=
+    "    tf.nn.softmax_cross_entropy_with_logits(logits, =
+tf_train_labels))\n",=0A=
+    "    \n",=0A=
+    "  # Add the regularization term to the loss.\n",=0A=
+    "  loss +=3D reg_coeff * regularizers\n",=0A=
+    "    \n",=0A=
+    "  # Optimizer.\n",=0A=
+    "  global_step =3D tf.Variable(0)  # count the number of steps =
+taken.\n",=0A=
+    "  learning_rate =3D tf.train.exponential_decay(0.5, global_step, =
+100000, 0.96, staircase=3DTrue)\n",=0A=
+    "  optimizer =3D =
+tf.train.GradientDescentOptimizer(learning_rate).minimize(loss, =
+global_step=3Dglobal_step)\n",=0A=
+    "\n",=0A=
+    "  # Predictions for the training, validation, and test data.\n",=0A=
+    "  train_prediction =3D tf.nn.softmax(logits)\n",=0A=
+    "  correct_prediction =3D tf.equal(tf.argmax(train_prediction,1), =
+tf.argmax(tf_train_labels,1))\n",=0A=
+    "  accurate =3D tf.reduce_mean(tf.cast(correct_prediction, =
+\"float\"))*100"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": null,=0A=
+   "metadata": {=0A=
+    "collapsed": false,=0A=
+    "scrolled": false=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 15.378896\n",=0A=
+      "Minibatch accuracy: 23.4%\n",=0A=
+      "Validation accuracy: 14.4%"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "num_steps =3D 3001\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print(\"Initialized\")\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    # Pick an offset within the training data, which has been =
+randomized.\n",=0A=
+    "    # Note: we could use better randomization across epochs.\n",=0A=
+    "    offset =3D (step * batch_size) % (train_labels.shape[0] - =
+batch_size)\n",=0A=
+    "    #print(step)\n",=0A=
+    "    # Generate a minibatch.\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size),:]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + =
+batch_size),:]\n",=0A=
+    "    # Prepare a dictionary telling the session where to feed the =
+minibatch.\n",=0A=
+    "    # The key of the dictionary is the placeholder node of the =
+graph to be fed,\n",=0A=
+    "    # and the value is the numpy array to feed to it.\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels, prob: 0.5}\n",=0A=
+    "    _, l, _ =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 500 =3D=3D 0):\n",=0A=
+    "      print(\"Minibatch loss at step %d: %f\" % (step, l))\n",=0A=
+    "      print(\"Minibatch accuracy: %.1f%%\" % =
+accurate.eval(feed_dict =3D {\n",=0A=
+    "                    tf_train_dataset : batch_data, tf_train_labels =
+: batch_labels, prob: 1}))\n",=0A=
+    "      print(\"Validation accuracy: %.1f%%\" % =
+accurate.eval(feed_dict =3D {\n",=0A=
+    "                tf_train_dataset : valid_dataset, tf_train_labels : =
+valid_labels, prob: 1}))\n",=0A=
+    "  print(\"Test accuracy: %.1f%%\" % accurate.eval(feed_dict =3D =
+{\n",=0A=
+    "            tf_train_dataset : test_dataset, tf_train_labels : =
+test_labels, prob: 1}))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": null,=0A=
+   "metadata": {=0A=
+    "collapsed": true=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": []=0A=
+  }=0A=
+ ],=0A=
+ "metadata": {=0A=
+  "colab": {=0A=
+   "default_view": {},=0A=
+   "name": "3_regularization.ipynb",=0A=
+   "provenance": [],=0A=
+   "version": "0.3.2",=0A=
+   "views": {}=0A=
+  },=0A=
+  "kernelspec": {=0A=
+   "display_name": "Python 2",=0A=
+   "language": "python",=0A=
+   "name": "python2"=0A=
+  },=0A=
+  "language_info": {=0A=
+   "codemirror_mode": {=0A=
+    "name": "ipython",=0A=
+    "version": 2=0A=
+   },=0A=
+   "file_extension": ".py",=0A=
+   "mimetype": "text/x-python",=0A=
+   "name": "python",=0A=
+   "nbconvert_exporter": "python",=0A=
+   "pygments_lexer": "ipython2",=0A=
+   "version": "2.7.11"=0A=
+  }=0A=
+ },=0A=
+ "nbformat": 4,=0A=
+ "nbformat_minor": 0=0A=
+}=0A=
+
+------=_NextPart_000_0280_01D17EAF.5A456950--

@@ -1,0 +1,1248 @@
+Received: from mail-vk0-f54.google.com (mail-vk0-f54.google.com [209.85.213.54])
+	by atl4mhib51.myregisteredsite.com (8.14.4/8.14.4) with ESMTP id u233ADRP016332
+	(version=TLSv1/SSLv3 cipher=AES128-GCM-SHA256 bits=128 verify=OK)
+	for <gene@dvi-engineering.com>; Wed, 2 Mar 2016 22:10:13 -0500
+Received: from unknown (HELO atl4mhib51.myregisteredsite.com) (209.17.115.186)
+  by 0 with SMTP; 3 Mar 2016 03:10:15 -0000
+Received: by 10.31.31.11 with HTTP; Wed, 2 Mar 2016 19:02:07 -0800 (PST)
+Received: by mail-vk0-f54.google.com with SMTP id e6so8806100vkh.2
+        for <gene@dvi-engineering.com>; Wed, 02 Mar 2016 19:10:13 -0800 (PST)
+Received: (qmail 1060 invoked by uid 0); 3 Mar 2016 03:10:15 -0000
+From: "Guangyu Wang" <wanggy1992@gmail.com>
+To: "Gene Miller" <gene@dvi-engineering.com>
+Cc: "Ruze Richards" <ruze00@gmail.com>,
+	"Mark Phillips" <mbp@geomtech.com>,
+	"Roman Kubiak" <rokubiak@gmail.com>,
+	"Uri Segal" <uri1@optonline.net>
+References: <CAGycQFYUNZkR65YYf5fV2AYTLWy59Yr6aXF_x=xhDWNkgq6hwQ@mail.gmail.com>	<04e49510-eb77-42df-b79e-3d5e7075e08a@email.android.com>	<CAD61X8X-rQu-Gv171TD3rHgakL_oA38yPoTfqWXOrVR7hRzQNQ@mail.gmail.com>	<00ee01d1740b$ffef2520$ffcd6f60$@dvi-engineering.com>
+In-Reply-To: <00ee01d1740b$ffef2520$ffcd6f60$@dvi-engineering.com>
+Subject: Re: iPython workbooks
+Date: Wed, 2 Mar 2016 23:02:07 -0400
+Message-ID: <CAD61X8U+GPO8JD4dm1px_bn5_8ODeqwdXNsB=MmsgCZWfgYa-w@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0285_01D17EAF.5A462CA0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQG3S0OnQlOT0rXn0cOrW+SgQ55PAgMIrNp0A1F8CUUCd3zDvAHOM0WH
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0285_01D17EAF.5A462CA0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0286_01D17EAF.5A462CA0"
+
+
+------=_NextPart_001_0286_01D17EAF.5A462CA0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Guys,=20
+
+Here is the solution for Assignment 4. The final LeNet-5 achieved 95% =
+accuracy on test set which is pretty good. Let me know if there is any =
+question.
+
+Bruce
+
+On Tue, Mar 1, 2016 at 5:45 PM, Gene Miller <gene@dvi-engineering.com =
+<mailto:gene@dvi-engineering.com> > wrote:
+
+
+No problem.
+
+=20
+
+=20
+
+From: Guangyu Wang [mailto:wanggy1992@gmail.com =
+<mailto:wanggy1992@gmail.com> ]=20
+Sent: Tuesday, March 1, 2016 5:30 PM
+To: gene@dvi-engineering.com <mailto:gene@dvi-engineering.com>=20
+Cc: Ruze Richards <ruze00@gmail.com <mailto:ruze00@gmail.com> >; Mark =
+Phillips <mbp@geomtech.com <mailto:mbp@geomtech.com> >; Roman Kubiak =
+<rokubiak@gmail.com <mailto:rokubiak@gmail.com> >; Uri Segal =
+<uri1@optonline.net <mailto:uri1@optonline.net> >
+Subject: Re: iPython workbooks
+
+=20
+
+I might be late for 30mins because of my work. Sorry about that.
+
+
+
+On Monday, February 29, 2016, gene@dvi-engineering.com =
+<mailto:gene@dvi-engineering.com>  <gene@dvi-engineering.com =
+<mailto:gene@dvi-engineering.com> > wrote:
+
+
+
+Yes-- 6:30 PM (okay if you arrive early)
+
+149 w 24th Street
+Apt 5C
+Name on buzzer is Gerbarg/Miller
+
+
+I'll have beer in the fridge. And we can order Chinese from around the =
+corner.
+
+Gene Miller
+212.645.8777 <tel:212.645.8777>=20
+
+
+
+--=20
+
+Graduate School of Arts and Sciences
+=20
+Columbia University
+
+(718) 669 - 0260 <tel:%28718%29%20669%20-%200260>=20
+
+=20
+
+
+
+
+--=20
+
+Graduate School of Arts and Sciences
+=20
+Columbia University
+
+
+(718) 669 - 0260
+
+------=_NextPart_001_0286_01D17EAF.5A462CA0
+Content-Type: text/html;
+	boundary="001a11425a1659c5c2052d1c3960";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Guys,=C2=A0<div><br></div><div>Here is the solution for =
+Assignment 4. The final LeNet-5 achieved 95% accuracy on test set which =
+is pretty good. Let me know if there is any =
+question.</div><div><br></div><div>Bruce</div></div><div =
+class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Tue, Mar 1, 2016 =
+at 5:45 PM, Gene Miller <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:gene@dvi-engineering.com" =
+target=3D"_blank">gene@dvi-engineering.com</a>&gt;</span> =
+wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 =
+.8ex;border-left:1px #ccc solid;padding-left:1ex"><div lang=3D"EN-US" =
+link=3D"blue" vlink=3D"purple"><div><p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">No =
+problem.<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"><u>=
+</u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"><u>=
+</u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><b><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Fro=
+m:</span></b><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> =
+Guangyu Wang [mailto:<a href=3D"mailto:wanggy1992@gmail.com" =
+target=3D"_blank">wanggy1992@gmail.com</a>] <br><b>Sent:</b> Tuesday, =
+March 1, 2016 5:30 PM<br><b>To:</b> <a =
+href=3D"mailto:gene@dvi-engineering.com" =
+target=3D"_blank">gene@dvi-engineering.com</a><br><b>Cc:</b> Ruze =
+Richards &lt;<a href=3D"mailto:ruze00@gmail.com" =
+target=3D"_blank">ruze00@gmail.com</a>&gt;; Mark Phillips &lt;<a =
+href=3D"mailto:mbp@geomtech.com" =
+target=3D"_blank">mbp@geomtech.com</a>&gt;; Roman Kubiak &lt;<a =
+href=3D"mailto:rokubiak@gmail.com" =
+target=3D"_blank">rokubiak@gmail.com</a>&gt;; Uri Segal &lt;<a =
+href=3D"mailto:uri1@optonline.net" =
+target=3D"_blank">uri1@optonline.net</a>&gt;<br><b>Subject:</b> Re: =
+iPython workbooks<u></u><u></u></span></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p class=3D"MsoNormal">I =
+might be late for 30mins because of my work. Sorry about =
+that.</p><div><div class=3D"h5"><br><br>On Monday, February 29, 2016, <a =
+href=3D"mailto:gene@dvi-engineering.com" =
+target=3D"_blank">gene@dvi-engineering.com</a> &lt;<a =
+href=3D"mailto:gene@dvi-engineering.com" =
+target=3D"_blank">gene@dvi-engineering.com</a>&gt; =
+wrote:<u></u><u></u></div></div><p></p><div><div =
+class=3D"h5"><blockquote style=3D"border:none;border-left:solid #cccccc =
+1.0pt;padding:0in 0in 0in 6.0pt;margin-left:4.8pt;margin-right:0in"><p =
+class=3D"MsoNormal">Yes-- 6:30 PM (okay if you arrive early)<br><br>149 =
+w 24th Street<br>Apt 5C<br>Name on buzzer is =
+Gerbarg/Miller<br><br><br>I&#39;ll have beer in the fridge. And we can =
+order Chinese from around the corner.<br><br>Gene Miller<br><a =
+href=3D"tel:212.645.8777" value=3D"+12126458777" =
+target=3D"_blank">212.645.8777</a><u></u><u></u></p></blockquote><p =
+class=3D"MsoNormal"><br><br>-- <u></u><u></u></p><div><div><div><div><p =
+class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span =
+style=3D"font-family:&quot;Arial&quot;,sans-serif">Graduate School of =
+Arts and Sciences<br>=C2=A0<br>Columbia =
+University</span><u></u><u></u></p></div><div><p class=3D"MsoNormal"><a =
+href=3D"tel:%28718%29%20669%20-%200260" value=3D"+17186690260" =
+target=3D"_blank">(718) 669 - =
+0260</a><u></u><u></u></p></div></div></div></div><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div></div></div></div></blo=
+ckquote></div><br><br clear=3D"all"><div><br></div>-- <br><div =
+class=3D"gmail_signature"><div dir=3D"ltr"><div><div =
+dir=3D"ltr"><div><font face=3D"arial, helvetica, sans-serif">Graduate =
+School of Arts and Sciences<br>=C2=A0<br>Columbia =
+University</font><br><br></div><div>(718) 669 - =
+0260</div></div></div></div></div>
+</div>
+
+------=_NextPart_001_0286_01D17EAF.5A462CA0--
+
+------=_NextPart_000_0285_01D17EAF.5A462CA0
+Content-Type: application/octet-stream;
+	name="4_convolutions.ipynb"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="4_convolutions.ipynb"
+
+{=0A=
+ "cells": [=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "4embtkV0pNxM"=0A=
+   },=0A=
+   "source": [=0A=
+    "Deep Learning\n",=0A=
+    "=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D\n",=0A=
+    "\n",=0A=
+    "Assignment 4\n",=0A=
+    "------------\n",=0A=
+    "\n",=0A=
+    "Previously in `2_fullyconnected.ipynb` and =
+`3_regularization.ipynb`, we trained fully connected networks to =
+classify =
+[notMNIST](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html) =
+characters.\n",=0A=
+    "\n",=0A=
+    "The goal of this assignment is make the neural network =
+convolutional."=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 1,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     }=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": true,=0A=
+    "id": "tm2CQN_Cpwj0"=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "# These are all the modules we'll be using later. Make sure you can =
+import them\n",=0A=
+    "# before proceeding further.\n",=0A=
+    "from __future__ import print_function\n",=0A=
+    "import numpy as np\n",=0A=
+    "import tensorflow as tf\n",=0A=
+    "from six.moves import cPickle as pickle\n",=0A=
+    "from six.moves import range"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 2,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     },=0A=
+     "output_extras": [=0A=
+      {=0A=
+       "item_id": 1=0A=
+      }=0A=
+     ]=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": false,=0A=
+    "executionInfo": {=0A=
+     "elapsed": 11948,=0A=
+     "status": "ok",=0A=
+     "timestamp": 1446658914837,=0A=
+     "user": {=0A=
+      "color": "",=0A=
+      "displayName": "",=0A=
+      "isAnonymous": false,=0A=
+      "isMe": true,=0A=
+      "permissionId": "",=0A=
+      "photoUrl": "",=0A=
+      "sessionId": "0",=0A=
+      "userId": ""=0A=
+     },=0A=
+     "user_tz": 480=0A=
+    },=0A=
+    "id": "y3-cj1bpmuxc",=0A=
+    "outputId": "016b1a51-0290-4b08-efdb-8c95ffc3cd01"=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Training set (200000, 28, 28) (200000,)\n",=0A=
+      "Validation set (10000, 28, 28) (10000,)\n",=0A=
+      "Test set (10000, 28, 28) (10000,)\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "\n",=0A=
+    "pickle_file =3D 'notMNIST.pickle'\n",=0A=
+    "\n",=0A=
+    "with open(pickle_file, 'rb') as f:\n",=0A=
+    "  save =3D pickle.load(f)\n",=0A=
+    "  train_dataset =3D save['train_dataset']\n",=0A=
+    "  train_labels =3D save['train_labels']\n",=0A=
+    "  valid_dataset =3D save['valid_dataset']\n",=0A=
+    "  valid_labels =3D save['valid_labels']\n",=0A=
+    "  test_dataset =3D save['test_dataset']\n",=0A=
+    "  test_labels =3D save['test_labels']\n",=0A=
+    "  del save  # hint to help gc free up memory\n",=0A=
+    "  print('Training set', train_dataset.shape, train_labels.shape)\n",=0A=
+    "  print('Validation set', valid_dataset.shape, =
+valid_labels.shape)\n",=0A=
+    "  print('Test set', test_dataset.shape, test_labels.shape)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "L7aHrm6nGDMB"=0A=
+   },=0A=
+   "source": [=0A=
+    "Reformat into a TensorFlow-friendly shape:\n",=0A=
+    "- convolutions need the image data formatted as a cube (width by =
+height by #channels)\n",=0A=
+    "- labels as float 1-hot encodings."=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 3,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     },=0A=
+     "output_extras": [=0A=
+      {=0A=
+       "item_id": 1=0A=
+      }=0A=
+     ]=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": false,=0A=
+    "executionInfo": {=0A=
+     "elapsed": 11952,=0A=
+     "status": "ok",=0A=
+     "timestamp": 1446658914857,=0A=
+     "user": {=0A=
+      "color": "",=0A=
+      "displayName": "",=0A=
+      "isAnonymous": false,=0A=
+      "isMe": true,=0A=
+      "permissionId": "",=0A=
+      "photoUrl": "",=0A=
+      "sessionId": "0",=0A=
+      "userId": ""=0A=
+     },=0A=
+     "user_tz": 480=0A=
+    },=0A=
+    "id": "IRSyYiIIGIzS",=0A=
+    "outputId": "650a208c-8359-4852-f4f5-8bf10e80ef6c"=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Training set (200000, 28, 28, 1) (200000, 10)\n",=0A=
+      "Validation set (10000, 28, 28, 1) (10000, 10)\n",=0A=
+      "Test set (10000, 28, 28, 1) (10000, 10)\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "image_size =3D 28\n",=0A=
+    "num_labels =3D 10\n",=0A=
+    "num_channels =3D 1 # grayscale\n",=0A=
+    "\n",=0A=
+    "import numpy as np\n",=0A=
+    "\n",=0A=
+    "def reformat(dataset, labels):\n",=0A=
+    "  dataset =3D dataset.reshape(\n",=0A=
+    "    (-1, image_size, image_size, =
+num_channels)).astype(np.float32)\n",=0A=
+    "  labels =3D (np.arange(num_labels) =3D=3D =
+labels[:,None]).astype(np.float32)\n",=0A=
+    "  return dataset, labels\n",=0A=
+    "train_dataset, train_labels =3D reformat(train_dataset, =
+train_labels)\n",=0A=
+    "valid_dataset, valid_labels =3D reformat(valid_dataset, =
+valid_labels)\n",=0A=
+    "test_dataset, test_labels =3D reformat(test_dataset, =
+test_labels)\n",=0A=
+    "print('Training set', train_dataset.shape, train_labels.shape)\n",=0A=
+    "print('Validation set', valid_dataset.shape, valid_labels.shape)\n",=0A=
+    "print('Test set', test_dataset.shape, test_labels.shape)"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 4,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     }=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": true,=0A=
+    "id": "AgQDIREv02p1"=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "def accuracy(predictions, labels):\n",=0A=
+    "  return (100.0 * np.sum(np.argmax(predictions, 1) =3D=3D =
+np.argmax(labels, 1))\n",=0A=
+    "          / predictions.shape[0])"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "5rhgjmROXu2O"=0A=
+   },=0A=
+   "source": [=0A=
+    "Let's build a small network with two convolutional layers, followed =
+by one fully connected layer. Convolutional networks are more expensive =
+computationally, so we'll limit its depth and number of fully connected =
+nodes."=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 5,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     }=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": true,=0A=
+    "id": "IZYv70SvvOan"=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "batch_size =3D 16\n",=0A=
+    "patch_size =3D 5\n",=0A=
+    "depth =3D 16\n",=0A=
+    "num_hidden =3D 64\n",=0A=
+    "\n",=0A=
+    "graph =3D tf.Graph()\n",=0A=
+    "\n",=0A=
+    "with graph.as_default():\n",=0A=
+    "\n",=0A=
+    "  # Input data.\n",=0A=
+    "  tf_train_dataset =3D tf.placeholder(\n",=0A=
+    "    tf.float32, shape=3D(batch_size, image_size, image_size, =
+num_channels))\n",=0A=
+    "  tf_train_labels =3D tf.placeholder(tf.float32, =
+shape=3D(batch_size, num_labels))\n",=0A=
+    "  tf_valid_dataset =3D tf.constant(valid_dataset)\n",=0A=
+    "  tf_test_dataset =3D tf.constant(test_dataset)\n",=0A=
+    "  \n",=0A=
+    "  # Variables.\n",=0A=
+    "  layer1_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [patch_size, patch_size, num_channels, depth], =
+stddev=3D0.1))\n",=0A=
+    "  layer1_biases =3D tf.Variable(tf.zeros([depth]))\n",=0A=
+    "  layer2_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [patch_size, patch_size, depth, depth], stddev=3D0.1))\n",=0A=
+    "  layer2_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[depth]))\n",=0A=
+    "  layer3_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [image_size // 4 * image_size // 4 * depth, num_hidden], =
+stddev=3D0.1))\n",=0A=
+    "  layer3_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[num_hidden]))\n",=0A=
+    "  layer4_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [num_hidden, num_labels], stddev=3D0.1))\n",=0A=
+    "  layer4_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[num_labels]))\n",=0A=
+    "  \n",=0A=
+    "  # Model.\n",=0A=
+    "  def model(data):\n",=0A=
+    "    conv =3D tf.nn.conv2d(data, layer1_weights, [1, 2, 2, 1], =
+padding=3D'SAME')\n",=0A=
+    "    hidden =3D tf.nn.relu(conv + layer1_biases)\n",=0A=
+    "    conv =3D tf.nn.conv2d(hidden, layer2_weights, [1, 2, 2, 1], =
+padding=3D'SAME')\n",=0A=
+    "    hidden =3D tf.nn.relu(conv + layer2_biases)\n",=0A=
+    "    shape =3D hidden.get_shape().as_list()\n",=0A=
+    "    reshape =3D tf.reshape(hidden, [shape[0], shape[1] * shape[2] * =
+shape[3]])\n",=0A=
+    "    hidden =3D tf.nn.relu(tf.matmul(reshape, layer3_weights) + =
+layer3_biases)\n",=0A=
+    "    return tf.matmul(hidden, layer4_weights) + layer4_biases\n",=0A=
+    "  \n",=0A=
+    "  # Training computation.\n",=0A=
+    "  logits =3D model(tf_train_dataset)\n",=0A=
+    "  loss =3D tf.reduce_mean(\n",=0A=
+    "    tf.nn.softmax_cross_entropy_with_logits(logits, =
+tf_train_labels))\n",=0A=
+    "    \n",=0A=
+    "  # Optimizer.\n",=0A=
+    "  optimizer =3D =
+tf.train.GradientDescentOptimizer(0.05).minimize(loss)\n",=0A=
+    "  \n",=0A=
+    "  # Predictions for the training, validation, and test data.\n",=0A=
+    "  train_prediction =3D tf.nn.softmax(logits)\n",=0A=
+    "  valid_prediction =3D tf.nn.softmax(model(tf_valid_dataset))\n",=0A=
+    "  test_prediction =3D tf.nn.softmax(model(tf_test_dataset))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 6,=0A=
+   "metadata": {=0A=
+    "cellView": "both",=0A=
+    "colab": {=0A=
+     "autoexec": {=0A=
+      "startup": false,=0A=
+      "wait_interval": 0=0A=
+     },=0A=
+     "output_extras": [=0A=
+      {=0A=
+       "item_id": 37=0A=
+      }=0A=
+     ]=0A=
+    },=0A=
+    "colab_type": "code",=0A=
+    "collapsed": false,=0A=
+    "executionInfo": {=0A=
+     "elapsed": 63292,=0A=
+     "status": "ok",=0A=
+     "timestamp": 1446658966251,=0A=
+     "user": {=0A=
+      "color": "",=0A=
+      "displayName": "",=0A=
+      "isAnonymous": false,=0A=
+      "isMe": true,=0A=
+      "permissionId": "",=0A=
+      "photoUrl": "",=0A=
+      "sessionId": "0",=0A=
+      "userId": ""=0A=
+     },=0A=
+     "user_tz": 480=0A=
+    },=0A=
+    "id": "noKFb2UovVFR",=0A=
+    "outputId": "28941338-2ef9-4088-8bd1-44295661e628"=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 2.568537\n",=0A=
+      "Minibatch accuracy: 18.8%\n",=0A=
+      "Validation accuracy: 10.0%\n",=0A=
+      "Minibatch loss at step 50: 1.433739\n",=0A=
+      "Minibatch accuracy: 56.2%\n",=0A=
+      "Validation accuracy: 55.6%\n",=0A=
+      "Minibatch loss at step 100: 0.741327\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 72.7%\n",=0A=
+      "Minibatch loss at step 150: 0.405569\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 75.7%\n",=0A=
+      "Minibatch loss at step 200: 0.745927\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 78.5%\n",=0A=
+      "Minibatch loss at step 250: 1.288459\n",=0A=
+      "Minibatch accuracy: 62.5%\n",=0A=
+      "Validation accuracy: 78.1%\n",=0A=
+      "Minibatch loss at step 300: 0.325036\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 79.6%\n",=0A=
+      "Minibatch loss at step 350: 0.529138\n",=0A=
+      "Minibatch accuracy: 93.8%\n",=0A=
+      "Validation accuracy: 76.6%\n",=0A=
+      "Minibatch loss at step 400: 0.213134\n",=0A=
+      "Minibatch accuracy: 100.0%\n",=0A=
+      "Validation accuracy: 80.6%\n",=0A=
+      "Minibatch loss at step 450: 0.834268\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 78.8%\n",=0A=
+      "Minibatch loss at step 500: 0.665661\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 80.9%\n",=0A=
+      "Minibatch loss at step 550: 0.943649\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 81.2%\n",=0A=
+      "Minibatch loss at step 600: 0.403699\n",=0A=
+      "Minibatch accuracy: 93.8%\n",=0A=
+      "Validation accuracy: 82.0%\n",=0A=
+      "Minibatch loss at step 650: 0.992555\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 82.0%\n",=0A=
+      "Minibatch loss at step 700: 0.721146\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 81.7%\n",=0A=
+      "Minibatch loss at step 750: 0.146369\n",=0A=
+      "Minibatch accuracy: 100.0%\n",=0A=
+      "Validation accuracy: 82.5%\n",=0A=
+      "Minibatch loss at step 800: 0.737890\n",=0A=
+      "Minibatch accuracy: 68.8%\n",=0A=
+      "Validation accuracy: 82.2%\n",=0A=
+      "Minibatch loss at step 850: 0.777098\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 82.3%\n",=0A=
+      "Minibatch loss at step 900: 0.609573\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 83.1%\n",=0A=
+      "Minibatch loss at step 950: 0.527593\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 83.3%\n",=0A=
+      "Minibatch loss at step 1000: 0.396203\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 82.7%\n",=0A=
+      "Test accuracy: 89.7%\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "num_steps =3D 1001\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print('Initialized')\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    offset =3D (step * batch_size) % (train_labels.shape[0] - =
+batch_size)\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size), :, =
+:, :]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + batch_size), =
+:]\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels}\n",=0A=
+    "    _, l, predictions =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 50 =3D=3D 0):\n",=0A=
+    "      print('Minibatch loss at step %d: %f' % (step, l))\n",=0A=
+    "      print('Minibatch accuracy: %.1f%%' % accuracy(predictions, =
+batch_labels))\n",=0A=
+    "      print('Validation accuracy: %.1f%%' % accuracy(\n",=0A=
+    "        valid_prediction.eval(), valid_labels))\n",=0A=
+    "  print('Test accuracy: %.1f%%' % accuracy(test_prediction.eval(), =
+test_labels))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "KedKkn4EutIK"=0A=
+   },=0A=
+   "source": [=0A=
+    "---\n",=0A=
+    "Problem 1\n",=0A=
+    "---------\n",=0A=
+    "\n",=0A=
+    "The convolutional model above uses convolutions with stride 2 to =
+reduce the dimensionality. Replace the strides by a max pooling =
+operation (`nn.max_pool()`) of stride 2 and kernel size 2.\n",=0A=
+    "\n",=0A=
+    "---"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 7,=0A=
+   "metadata": {=0A=
+    "collapsed": true=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "batch_size =3D 16\n",=0A=
+    "patch_size =3D 5\n",=0A=
+    "depth =3D 16\n",=0A=
+    "num_hidden =3D 64\n",=0A=
+    "\n",=0A=
+    "graph =3D tf.Graph()\n",=0A=
+    "\n",=0A=
+    "with graph.as_default():\n",=0A=
+    "\n",=0A=
+    "  # Input data.\n",=0A=
+    "  tf_train_dataset =3D tf.placeholder(\n",=0A=
+    "    tf.float32, shape=3D(batch_size, image_size, image_size, =
+num_channels))\n",=0A=
+    "  tf_train_labels =3D tf.placeholder(tf.float32, =
+shape=3D(batch_size, num_labels))\n",=0A=
+    "  tf_valid_dataset =3D tf.constant(valid_dataset)\n",=0A=
+    "  tf_test_dataset =3D tf.constant(test_dataset)\n",=0A=
+    "  \n",=0A=
+    "  # Variables.\n",=0A=
+    "  layer1_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [patch_size, patch_size, num_channels, depth], =
+stddev=3D0.1))\n",=0A=
+    "  layer1_biases =3D tf.Variable(tf.zeros([depth]))\n",=0A=
+    "  layer2_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [patch_size, patch_size, depth, depth], stddev=3D0.1))\n",=0A=
+    "  layer2_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[depth]))\n",=0A=
+    "  layer3_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [image_size // 4 * image_size // 4 * depth, num_hidden], =
+stddev=3D0.1))\n",=0A=
+    "  layer3_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[num_hidden]))\n",=0A=
+    "  layer4_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [num_hidden, num_labels], stddev=3D0.1))\n",=0A=
+    "  layer4_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[num_labels]))\n",=0A=
+    "  \n",=0A=
+    "  # Model.\n",=0A=
+    "  def model(data):\n",=0A=
+    "    conv =3D tf.nn.conv2d(data, layer1_weights, [1, 1, 1, 1], =
+padding=3D'SAME')\n",=0A=
+    "    pool =3D tf.nn.max_pool(conv, ksize=3D[1, 2, 2, 1],\n",=0A=
+    "                        strides=3D[1, 2, 2, 1], =
+padding=3D'SAME')\n",=0A=
+    "\n",=0A=
+    "    hidden =3D tf.nn.relu(pool + layer1_biases)\n",=0A=
+    "    conv =3D tf.nn.conv2d(hidden, layer2_weights, [1, 1, 1, 1], =
+padding=3D'SAME')\n",=0A=
+    "    pool =3D tf.nn.max_pool(conv, ksize=3D[1, 2, 2, 1],\n",=0A=
+    "                        strides=3D[1, 2, 2, 1], =
+padding=3D'SAME')\n",=0A=
+    "\n",=0A=
+    "    hidden =3D tf.nn.relu(pool + layer2_biases)\n",=0A=
+    "    shape =3D hidden.get_shape().as_list()\n",=0A=
+    "    reshape =3D tf.reshape(hidden, [shape[0], shape[1] * shape[2] * =
+shape[3]])\n",=0A=
+    "    hidden =3D tf.nn.relu(tf.matmul(reshape, layer3_weights) + =
+layer3_biases)\n",=0A=
+    "    return tf.matmul(hidden, layer4_weights) + layer4_biases\n",=0A=
+    "  \n",=0A=
+    "  # Training computation.\n",=0A=
+    "  logits =3D model(tf_train_dataset)\n",=0A=
+    "  loss =3D tf.reduce_mean(\n",=0A=
+    "    tf.nn.softmax_cross_entropy_with_logits(logits, =
+tf_train_labels))\n",=0A=
+    "    \n",=0A=
+    "  # Optimizer.\n",=0A=
+    "  optimizer =3D =
+tf.train.GradientDescentOptimizer(0.05).minimize(loss)\n",=0A=
+    "  \n",=0A=
+    "  # Predictions for the training, validation, and test data.\n",=0A=
+    "  train_prediction =3D tf.nn.softmax(logits)\n",=0A=
+    "  valid_prediction =3D tf.nn.softmax(model(tf_valid_dataset))\n",=0A=
+    "  test_prediction =3D tf.nn.softmax(model(tf_test_dataset))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 8,=0A=
+   "metadata": {=0A=
+    "collapsed": false=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 3.081282\n",=0A=
+      "Minibatch accuracy: 0.0%\n",=0A=
+      "Validation accuracy: 10.0%\n",=0A=
+      "Minibatch loss at step 50: 2.305868\n",=0A=
+      "Minibatch accuracy: 12.5%\n",=0A=
+      "Validation accuracy: 15.4%\n",=0A=
+      "Minibatch loss at step 100: 1.735346\n",=0A=
+      "Minibatch accuracy: 31.2%\n",=0A=
+      "Validation accuracy: 37.8%\n",=0A=
+      "Minibatch loss at step 150: 1.043876\n",=0A=
+      "Minibatch accuracy: 68.8%\n",=0A=
+      "Validation accuracy: 65.4%\n",=0A=
+      "Minibatch loss at step 200: 0.764496\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 74.8%\n",=0A=
+      "Minibatch loss at step 250: 1.335544\n",=0A=
+      "Minibatch accuracy: 62.5%\n",=0A=
+      "Validation accuracy: 75.0%\n",=0A=
+      "Minibatch loss at step 300: 0.443099\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 79.7%\n",=0A=
+      "Minibatch loss at step 350: 0.595832\n",=0A=
+      "Minibatch accuracy: 93.8%\n",=0A=
+      "Validation accuracy: 79.5%\n",=0A=
+      "Minibatch loss at step 400: 0.203596\n",=0A=
+      "Minibatch accuracy: 100.0%\n",=0A=
+      "Validation accuracy: 80.9%\n",=0A=
+      "Minibatch loss at step 450: 0.957837\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 79.0%\n",=0A=
+      "Minibatch loss at step 500: 0.640668\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 81.3%\n",=0A=
+      "Minibatch loss at step 550: 0.875566\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 82.1%\n",=0A=
+      "Minibatch loss at step 600: 0.277903\n",=0A=
+      "Minibatch accuracy: 93.8%\n",=0A=
+      "Validation accuracy: 82.9%\n",=0A=
+      "Minibatch loss at step 650: 0.885744\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 82.4%\n",=0A=
+      "Minibatch loss at step 700: 0.895713\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 83.1%\n",=0A=
+      "Minibatch loss at step 750: 0.105606\n",=0A=
+      "Minibatch accuracy: 93.8%\n",=0A=
+      "Validation accuracy: 83.5%\n",=0A=
+      "Minibatch loss at step 800: 0.710095\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 83.5%\n",=0A=
+      "Minibatch loss at step 850: 0.979388\n",=0A=
+      "Minibatch accuracy: 75.0%\n",=0A=
+      "Validation accuracy: 84.2%\n",=0A=
+      "Minibatch loss at step 900: 0.573580\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 84.2%\n",=0A=
+      "Minibatch loss at step 950: 0.431771\n",=0A=
+      "Minibatch accuracy: 81.2%\n",=0A=
+      "Validation accuracy: 84.5%\n",=0A=
+      "Minibatch loss at step 1000: 0.322648\n",=0A=
+      "Minibatch accuracy: 87.5%\n",=0A=
+      "Validation accuracy: 84.1%\n",=0A=
+      "Test accuracy: 90.5%\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "num_steps =3D 1001\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print('Initialized')\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    offset =3D (step * batch_size) % (train_labels.shape[0] - =
+batch_size)\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size), :, =
+:, :]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + batch_size), =
+:]\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels}\n",=0A=
+    "    _, l, predictions =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 50 =3D=3D 0):\n",=0A=
+    "      print('Minibatch loss at step %d: %f' % (step, l))\n",=0A=
+    "      print('Minibatch accuracy: %.1f%%' % accuracy(predictions, =
+batch_labels))\n",=0A=
+    "      print('Validation accuracy: %.1f%%' % accuracy(\n",=0A=
+    "        valid_prediction.eval(), valid_labels))\n",=0A=
+    "  print('Test accuracy: %.1f%%' % accuracy(test_prediction.eval(), =
+test_labels))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "markdown",=0A=
+   "metadata": {=0A=
+    "colab_type": "text",=0A=
+    "id": "klf21gpbAgb-"=0A=
+   },=0A=
+   "source": [=0A=
+    "---\n",=0A=
+    "Problem 2\n",=0A=
+    "---------\n",=0A=
+    "\n",=0A=
+    "Try to get the best performance you can using a convolutional net. =
+Look for example at the classic =
+[LeNet5](http://yann.lecun.com/exdb/lenet/) architecture, adding =
+Dropout, and/or adding learning rate decay.\n",=0A=
+    "\n",=0A=
+    "---"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 11,=0A=
+   "metadata": {=0A=
+    "collapsed": true=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": [=0A=
+    "batch_size =3D 300\n",=0A=
+    "patch_size =3D 5\n",=0A=
+    "depth =3D 16\n",=0A=
+    "num_hidden =3D 64\n",=0A=
+    "\n",=0A=
+    "graph =3D tf.Graph()\n",=0A=
+    "\n",=0A=
+    "with graph.as_default():\n",=0A=
+    "\n",=0A=
+    "  # Input data.\n",=0A=
+    "  tf_train_dataset =3D tf.placeholder(\n",=0A=
+    "    tf.float32, shape=3D(batch_size, image_size, image_size, =
+num_channels))\n",=0A=
+    "  tf_train_labels =3D tf.placeholder(tf.float32, =
+shape=3D(batch_size, num_labels))\n",=0A=
+    "  tf_valid_dataset =3D tf.constant(valid_dataset)\n",=0A=
+    "  tf_test_dataset =3D tf.constant(test_dataset)\n",=0A=
+    "  \n",=0A=
+    "  # Variables.\n",=0A=
+    "  layer1_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [5, 5, num_channels, 6], stddev=3D0.1))\n",=0A=
+    "  layer1_biases =3D tf.Variable(tf.zeros([6]))\n",=0A=
+    "  layer2_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [5, 5, 6, 16], stddev=3D0.1))\n",=0A=
+    "  layer2_biases =3D tf.Variable(tf.constant(1.0, shape=3D[16]))\n",=0A=
+    "  layer3_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [400, 120], stddev=3D0.1))\n",=0A=
+    "  layer3_biases =3D tf.Variable(tf.constant(1.0, shape=3D[120]))\n",=0A=
+    "  layer4_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [120, 84], stddev=3D0.1))\n",=0A=
+    "  layer4_biases =3D tf.Variable(tf.constant(1.0, shape=3D[84]))\n",=0A=
+    "  layer5_weights =3D tf.Variable(tf.truncated_normal(\n",=0A=
+    "      [84, num_labels], stddev=3D0.1))\n",=0A=
+    "  layer5_biases =3D tf.Variable(tf.constant(1.0, =
+shape=3D[num_labels])) \n",=0A=
+    "  # Model.\n",=0A=
+    "  def model(data):\n",=0A=
+    "    conv1 =3D tf.nn.conv2d(data, layer1_weights, [1, 1, 1, 1], =
+padding=3D'SAME')\n",=0A=
+    "    pool1 =3D tf.nn.max_pool(conv1, ksize=3D[1, 2, 2, 1],\n",=0A=
+    "                        strides=3D[1, 2, 2, 1], =
+padding=3D'SAME')\n",=0A=
+    "\n",=0A=
+    "    hidden1 =3D tf.nn.relu(pool1 + layer1_biases)\n",=0A=
+    "    #hidden1 =3D (pool1 + layer1_biases)\n",=0A=
+    "    conv2 =3D tf.nn.conv2d(hidden1, layer2_weights, [1, 1, 1, 1], =
+padding=3D'VALID')\n",=0A=
+    "    pool2 =3D tf.nn.max_pool(conv2, ksize=3D[1, 2, 2, 1],\n",=0A=
+    "                        strides=3D[1, 2, 2, 1], =
+padding=3D'SAME')\n",=0A=
+    "\n",=0A=
+    "    hidden2 =3D tf.nn.relu(pool2 + layer2_biases)\n",=0A=
+    "    #hidden2 =3D (pool2 + layer2_biases)\n",=0A=
+    "    shape =3D hidden2.get_shape().as_list()\n",=0A=
+    "    reshape =3D tf.reshape(hidden2, [shape[0], shape[1] * shape[2] =
+* shape[3]])    \n",=0A=
+    "    hidden3 =3D tf.nn.relu(tf.matmul(reshape, layer3_weights) + =
+layer3_biases)  \n",=0A=
+    "\n",=0A=
+    "    hidden4 =3D tf.nn.relu(tf.matmul(hidden3, layer4_weights) + =
+layer4_biases)\n",=0A=
+    "\n",=0A=
+    "\n",=0A=
+    "    return tf.matmul(hidden4, layer5_weights) + layer5_biases\n",=0A=
+    "  \n",=0A=
+    "  # Training computation.\n",=0A=
+    "  logits =3D model(tf_train_dataset)\n",=0A=
+    "  loss =3D tf.reduce_mean(\n",=0A=
+    "    tf.nn.softmax_cross_entropy_with_logits(logits, =
+tf_train_labels))\n",=0A=
+    "    \n",=0A=
+    "  # Optimizer.\n",=0A=
+    "  optimizer =3D =
+tf.train.GradientDescentOptimizer(0.2).minimize(loss)\n",=0A=
+    "  \n",=0A=
+    "  # Predictions for the training, validation, and test data.\n",=0A=
+    "  train_prediction =3D tf.nn.softmax(logits)\n",=0A=
+    "  valid_prediction =3D tf.nn.softmax(model(tf_valid_dataset))\n",=0A=
+    "  test_prediction =3D tf.nn.softmax(model(tf_test_dataset))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": 12,=0A=
+   "metadata": {=0A=
+    "collapsed": false,=0A=
+    "scrolled": false=0A=
+   },=0A=
+   "outputs": [=0A=
+    {=0A=
+     "name": "stdout",=0A=
+     "output_type": "stream",=0A=
+     "text": [=0A=
+      "Initialized\n",=0A=
+      "Minibatch loss at step 0: 2.907217\n",=0A=
+      "Minibatch accuracy: 9.0%\n",=0A=
+      "Validation accuracy: 10.0%\n",=0A=
+      "Minibatch loss at step 50: 0.859402\n",=0A=
+      "Minibatch accuracy: 71.3%\n",=0A=
+      "Validation accuracy: 72.1%\n",=0A=
+      "Minibatch loss at step 100: 0.805859\n",=0A=
+      "Minibatch accuracy: 77.0%\n",=0A=
+      "Validation accuracy: 76.3%\n",=0A=
+      "Minibatch loss at step 150: 0.571817\n",=0A=
+      "Minibatch accuracy: 80.3%\n",=0A=
+      "Validation accuracy: 83.2%\n",=0A=
+      "Minibatch loss at step 200: 0.470126\n",=0A=
+      "Minibatch accuracy: 84.0%\n",=0A=
+      "Validation accuracy: 84.5%\n",=0A=
+      "Minibatch loss at step 250: 0.449628\n",=0A=
+      "Minibatch accuracy: 86.7%\n",=0A=
+      "Validation accuracy: 85.0%\n",=0A=
+      "Minibatch loss at step 300: 0.524979\n",=0A=
+      "Minibatch accuracy: 84.0%\n",=0A=
+      "Validation accuracy: 85.0%\n",=0A=
+      "Minibatch loss at step 350: 0.451288\n",=0A=
+      "Minibatch accuracy: 88.0%\n",=0A=
+      "Validation accuracy: 85.8%\n",=0A=
+      "Minibatch loss at step 400: 0.408437\n",=0A=
+      "Minibatch accuracy: 86.7%\n",=0A=
+      "Validation accuracy: 86.4%\n",=0A=
+      "Minibatch loss at step 450: 0.252039\n",=0A=
+      "Minibatch accuracy: 90.7%\n",=0A=
+      "Validation accuracy: 86.5%\n",=0A=
+      "Minibatch loss at step 500: 0.487139\n",=0A=
+      "Minibatch accuracy: 85.0%\n",=0A=
+      "Validation accuracy: 86.8%\n",=0A=
+      "Minibatch loss at step 550: 0.390408\n",=0A=
+      "Minibatch accuracy: 89.0%\n",=0A=
+      "Validation accuracy: 86.8%\n",=0A=
+      "Minibatch loss at step 600: 0.501420\n",=0A=
+      "Minibatch accuracy: 85.0%\n",=0A=
+      "Validation accuracy: 86.7%\n",=0A=
+      "Minibatch loss at step 650: 0.506603\n",=0A=
+      "Minibatch accuracy: 85.7%\n",=0A=
+      "Validation accuracy: 87.5%\n",=0A=
+      "Minibatch loss at step 700: 0.404160\n",=0A=
+      "Minibatch accuracy: 87.3%\n",=0A=
+      "Validation accuracy: 87.4%\n",=0A=
+      "Minibatch loss at step 750: 0.382971\n",=0A=
+      "Minibatch accuracy: 87.3%\n",=0A=
+      "Validation accuracy: 87.2%\n",=0A=
+      "Minibatch loss at step 800: 0.361738\n",=0A=
+      "Minibatch accuracy: 91.7%\n",=0A=
+      "Validation accuracy: 87.5%\n",=0A=
+      "Minibatch loss at step 850: 0.423280\n",=0A=
+      "Minibatch accuracy: 88.0%\n",=0A=
+      "Validation accuracy: 88.0%\n",=0A=
+      "Minibatch loss at step 900: 0.485242\n",=0A=
+      "Minibatch accuracy: 86.7%\n",=0A=
+      "Validation accuracy: 87.7%\n",=0A=
+      "Minibatch loss at step 950: 0.526463\n",=0A=
+      "Minibatch accuracy: 83.7%\n",=0A=
+      "Validation accuracy: 87.8%\n",=0A=
+      "Minibatch loss at step 1000: 0.348620\n",=0A=
+      "Minibatch accuracy: 89.7%\n",=0A=
+      "Validation accuracy: 88.0%\n",=0A=
+      "Minibatch loss at step 1050: 0.474909\n",=0A=
+      "Minibatch accuracy: 85.7%\n",=0A=
+      "Validation accuracy: 87.5%\n",=0A=
+      "Minibatch loss at step 1100: 0.424567\n",=0A=
+      "Minibatch accuracy: 85.3%\n",=0A=
+      "Validation accuracy: 88.0%\n",=0A=
+      "Minibatch loss at step 1150: 0.333838\n",=0A=
+      "Minibatch accuracy: 91.0%\n",=0A=
+      "Validation accuracy: 88.3%\n",=0A=
+      "Minibatch loss at step 1200: 0.351597\n",=0A=
+      "Minibatch accuracy: 90.0%\n",=0A=
+      "Validation accuracy: 88.4%\n",=0A=
+      "Minibatch loss at step 1250: 0.418472\n",=0A=
+      "Minibatch accuracy: 86.3%\n",=0A=
+      "Validation accuracy: 88.5%\n",=0A=
+      "Minibatch loss at step 1300: 0.369300\n",=0A=
+      "Minibatch accuracy: 89.0%\n",=0A=
+      "Validation accuracy: 88.3%\n",=0A=
+      "Minibatch loss at step 1350: 0.336184\n",=0A=
+      "Minibatch accuracy: 89.7%\n",=0A=
+      "Validation accuracy: 88.6%\n",=0A=
+      "Minibatch loss at step 1400: 0.370354\n",=0A=
+      "Minibatch accuracy: 88.0%\n",=0A=
+      "Validation accuracy: 88.6%\n",=0A=
+      "Minibatch loss at step 1450: 0.321884\n",=0A=
+      "Minibatch accuracy: 91.0%\n",=0A=
+      "Validation accuracy: 88.4%\n",=0A=
+      "Minibatch loss at step 1500: 0.311559\n",=0A=
+      "Minibatch accuracy: 89.3%\n",=0A=
+      "Validation accuracy: 88.6%\n",=0A=
+      "Minibatch loss at step 1550: 0.272620\n",=0A=
+      "Minibatch accuracy: 91.3%\n",=0A=
+      "Validation accuracy: 88.8%\n",=0A=
+      "Minibatch loss at step 1600: 0.309387\n",=0A=
+      "Minibatch accuracy: 90.0%\n",=0A=
+      "Validation accuracy: 88.6%\n",=0A=
+      "Minibatch loss at step 1650: 0.395580\n",=0A=
+      "Minibatch accuracy: 87.3%\n",=0A=
+      "Validation accuracy: 89.0%\n",=0A=
+      "Minibatch loss at step 1700: 0.257212\n",=0A=
+      "Minibatch accuracy: 92.0%\n",=0A=
+      "Validation accuracy: 88.8%\n",=0A=
+      "Minibatch loss at step 1750: 0.301679\n",=0A=
+      "Minibatch accuracy: 90.0%\n",=0A=
+      "Validation accuracy: 88.7%\n",=0A=
+      "Minibatch loss at step 1800: 0.290549\n",=0A=
+      "Minibatch accuracy: 91.3%\n",=0A=
+      "Validation accuracy: 89.1%\n",=0A=
+      "Minibatch loss at step 1850: 0.413798\n",=0A=
+      "Minibatch accuracy: 86.0%\n",=0A=
+      "Validation accuracy: 88.9%\n",=0A=
+      "Minibatch loss at step 1900: 0.431498\n",=0A=
+      "Minibatch accuracy: 87.0%\n",=0A=
+      "Validation accuracy: 89.0%\n",=0A=
+      "Minibatch loss at step 1950: 0.308160\n",=0A=
+      "Minibatch accuracy: 90.7%\n",=0A=
+      "Validation accuracy: 89.1%\n",=0A=
+      "Minibatch loss at step 2000: 0.293099\n",=0A=
+      "Minibatch accuracy: 91.0%\n",=0A=
+      "Validation accuracy: 88.4%\n",=0A=
+      "Minibatch loss at step 2050: 0.227567\n",=0A=
+      "Minibatch accuracy: 93.0%\n",=0A=
+      "Validation accuracy: 89.0%\n",=0A=
+      "Minibatch loss at step 2100: 0.352084\n",=0A=
+      "Minibatch accuracy: 88.7%\n",=0A=
+      "Validation accuracy: 89.2%\n",=0A=
+      "Minibatch loss at step 2150: 0.269444\n",=0A=
+      "Minibatch accuracy: 91.7%\n",=0A=
+      "Validation accuracy: 89.3%\n",=0A=
+      "Minibatch loss at step 2200: 0.357467\n",=0A=
+      "Minibatch accuracy: 88.0%\n",=0A=
+      "Validation accuracy: 89.2%\n",=0A=
+      "Minibatch loss at step 2250: 0.333820\n",=0A=
+      "Minibatch accuracy: 89.3%\n",=0A=
+      "Validation accuracy: 89.3%\n",=0A=
+      "Minibatch loss at step 2300: 0.401118\n",=0A=
+      "Minibatch accuracy: 86.7%\n",=0A=
+      "Validation accuracy: 89.4%\n",=0A=
+      "Minibatch loss at step 2350: 0.333277\n",=0A=
+      "Minibatch accuracy: 89.7%\n",=0A=
+      "Validation accuracy: 89.2%\n",=0A=
+      "Minibatch loss at step 2400: 0.408543\n",=0A=
+      "Minibatch accuracy: 88.0%\n",=0A=
+      "Validation accuracy: 89.6%\n",=0A=
+      "Minibatch loss at step 2450: 0.241835\n",=0A=
+      "Minibatch accuracy: 93.0%\n",=0A=
+      "Validation accuracy: 89.4%\n",=0A=
+      "Minibatch loss at step 2500: 0.346498\n",=0A=
+      "Minibatch accuracy: 89.3%\n",=0A=
+      "Validation accuracy: 89.5%\n",=0A=
+      "Minibatch loss at step 2550: 0.347581\n",=0A=
+      "Minibatch accuracy: 89.0%\n",=0A=
+      "Validation accuracy: 89.6%\n",=0A=
+      "Minibatch loss at step 2600: 0.287814\n",=0A=
+      "Minibatch accuracy: 91.3%\n",=0A=
+      "Validation accuracy: 89.5%\n",=0A=
+      "Minibatch loss at step 2650: 0.289326\n",=0A=
+      "Minibatch accuracy: 92.0%\n",=0A=
+      "Validation accuracy: 89.5%\n",=0A=
+      "Minibatch loss at step 2700: 0.283192\n",=0A=
+      "Minibatch accuracy: 90.7%\n",=0A=
+      "Validation accuracy: 89.4%\n",=0A=
+      "Minibatch loss at step 2750: 0.288263\n",=0A=
+      "Minibatch accuracy: 92.7%\n",=0A=
+      "Validation accuracy: 89.6%\n",=0A=
+      "Minibatch loss at step 2800: 0.263220\n",=0A=
+      "Minibatch accuracy: 93.0%\n",=0A=
+      "Validation accuracy: 89.5%\n",=0A=
+      "Minibatch loss at step 2850: 0.251386\n",=0A=
+      "Minibatch accuracy: 92.0%\n",=0A=
+      "Validation accuracy: 89.6%\n",=0A=
+      "Minibatch loss at step 2900: 0.277531\n",=0A=
+      "Minibatch accuracy: 91.7%\n",=0A=
+      "Validation accuracy: 89.7%\n",=0A=
+      "Minibatch loss at step 2950: 0.316990\n",=0A=
+      "Minibatch accuracy: 87.7%\n",=0A=
+      "Validation accuracy: 89.7%\n",=0A=
+      "Minibatch loss at step 3000: 0.282548\n",=0A=
+      "Minibatch accuracy: 91.3%\n",=0A=
+      "Validation accuracy: 89.8%\n",=0A=
+      "Test accuracy: 95.4%\n"=0A=
+     ]=0A=
+    }=0A=
+   ],=0A=
+   "source": [=0A=
+    "num_steps =3D 3001\n",=0A=
+    "\n",=0A=
+    "with tf.Session(graph=3Dgraph) as session:\n",=0A=
+    "  tf.initialize_all_variables().run()\n",=0A=
+    "  print('Initialized')\n",=0A=
+    "  for step in range(num_steps):\n",=0A=
+    "    offset =3D (step * batch_size) % (train_labels.shape[0] - =
+batch_size)\n",=0A=
+    "    batch_data =3D train_dataset[offset:(offset + batch_size), :, =
+:, :]\n",=0A=
+    "    batch_labels =3D train_labels[offset:(offset + batch_size), =
+:]\n",=0A=
+    "    feed_dict =3D {tf_train_dataset : batch_data, tf_train_labels : =
+batch_labels}\n",=0A=
+    "    _, l, predictions =3D session.run(\n",=0A=
+    "      [optimizer, loss, train_prediction], =
+feed_dict=3Dfeed_dict)\n",=0A=
+    "    if (step % 50 =3D=3D 0):\n",=0A=
+    "      print('Minibatch loss at step %d: %f' % (step, l))\n",=0A=
+    "      print('Minibatch accuracy: %.1f%%' % accuracy(predictions, =
+batch_labels))\n",=0A=
+    "      print('Validation accuracy: %.1f%%' % accuracy(\n",=0A=
+    "        valid_prediction.eval(), valid_labels))\n",=0A=
+    "  print('Test accuracy: %.1f%%' % accuracy(test_prediction.eval(), =
+test_labels))"=0A=
+   ]=0A=
+  },=0A=
+  {=0A=
+   "cell_type": "code",=0A=
+   "execution_count": null,=0A=
+   "metadata": {=0A=
+    "collapsed": true=0A=
+   },=0A=
+   "outputs": [],=0A=
+   "source": []=0A=
+  }=0A=
+ ],=0A=
+ "metadata": {=0A=
+  "colab": {=0A=
+   "default_view": {},=0A=
+   "name": "4_convolutions.ipynb",=0A=
+   "provenance": [],=0A=
+   "version": "0.3.2",=0A=
+   "views": {}=0A=
+  },=0A=
+  "kernelspec": {=0A=
+   "display_name": "Python 3",=0A=
+   "language": "python",=0A=
+   "name": "python3"=0A=
+  },=0A=
+  "language_info": {=0A=
+   "codemirror_mode": {=0A=
+    "name": "ipython",=0A=
+    "version": 3=0A=
+   },=0A=
+   "file_extension": ".py",=0A=
+   "mimetype": "text/x-python",=0A=
+   "name": "python",=0A=
+   "nbconvert_exporter": "python",=0A=
+   "pygments_lexer": "ipython3",=0A=
+   "version": "3.5.1"=0A=
+  }=0A=
+ },=0A=
+ "nbformat": 4,=0A=
+ "nbformat_minor": 0=0A=
+}=0A=
+
+------=_NextPart_000_0285_01D17EAF.5A462CA0--
